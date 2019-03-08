@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "name": "Perga Mídia",
+    "version": "1.0",
+  
+    "description": "A forma mais rápida de se conectar com a cultura ",
+    "icons": {
+        "128": "icon.png"
+    },
+  
+    "browser_action": {
+        "default_popup":"index.html"
+    }
+  
+}

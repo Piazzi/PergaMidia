@@ -1,0 +1,26 @@
+#site {
+    background-color: #603708;
+    color: white;
+}
+
+#facebook {
+    background-color: #603708;
+    color: white;
+}
+
+#instagram {
+    background-color: #603708;
+    color: white;
+}
+
+#youtube {
+    background-color: #603708;
+    color: white;
+   }
+
+a {
+    font-family: inherit;
+    text-shadow: 1px;
+    margin: 2px;
+   
+}
